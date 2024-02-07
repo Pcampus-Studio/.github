@@ -2,8 +2,6 @@
 
 Pcampus Studio is developing the metaverse concept of next-generation technology.
 
-**Languages I have used**
-
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
@@ -14,8 +12,6 @@ Pcampus Studio is developing the metaverse concept of next-generation technology
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
-
-**Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
