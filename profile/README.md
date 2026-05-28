@@ -1,6 +1,44 @@
 # PCAMPUS STUDIO
+<img width="2174" height="723" alt="ChatGPT Image 28 พ ค  2569 21_19_47" src="https://github.com/user-attachments/assets/287c885c-0cb7-4ed5-8a31-dfac4c38ad34" />
+<h1 align="center">Pcampus Studio</h1>
 
-Pcampus Studio is developing the metaverse concept of next-generation technology.
+<p align="center">
+  Human + AI Software Team
+</p>
+
+<p align="center">
+  We build modern software systems with Human + Agent workflows.
+</p>
+
+---
+
+## 🚀 What We Do
+
+- Web Application Development
+- Mobile Application Development
+- Enterprise Systems
+- OpenAPI-first Architecture
+- Human + AI Development Workflow
+- AI-native Engineering Systems
+
+---
+
+## 🧠 Our Philosophy
+
+We believe the future of software teams is not:
+
+> “Human vs AI”
+
+But:
+
+> “Human + AI working together in a continuous delivery cycle”
+
+---
+
+## ⚙️ Our Workflow
+
+```text
+DEFINE → PLAN → EXECUTE → REVIEW → IMPROVE → SHIP
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
